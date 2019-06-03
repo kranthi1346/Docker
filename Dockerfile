@@ -1,3 +1,4 @@
-From tomcat:ubuntu
-RUN sudo systemctl start tomcat
-EXPOSE 8080
+From centos
+MAINTAINER Docker
+COPY ${FOLDER /app}
+
