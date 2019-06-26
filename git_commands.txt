@@ -11,4 +11,4 @@ When one repository is amended, the new content must be actively copied to the o
 
 Hope it helped. :)
 
-
+What is the difference between git merge and git rebase?
